@@ -1,0 +1,16 @@
+{
+  "name": "wtodo_telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "wangw42",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
