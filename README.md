@@ -4,9 +4,9 @@
     //This to do bot still has some problems, I'll fix it one day.(may be..)
     
     
-    
-Reference:
-[Bot Code Examples](https://core.telegram.org/bots/samples)
-[Telegram Bot API](https://core.telegram.org/bots/api)
+ <br><br><br><br>   
+**Reference**:<br>
+[Bot Code Examples](https://core.telegram.org/bots/samples)<br>
+[Telegram Bot API](https://core.telegram.org/bots/api)<br>
 
 To be continued...
